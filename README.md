@@ -1,7 +1,7 @@
 # Theme Switcher for X11 WM's
 ## Notes:
 This script isn't plug and play. For best results you should [manualy create themes for pywal](https://github.com/dylanaraps/pywal/wiki/User-Template-Files).
-Read the `theme-switch` script and figure out what you're missing :)
+Read the scripts and figure out what you're missing :)
 
 ## Dependencies
 - [feh](https://github.com/derf/feh)
