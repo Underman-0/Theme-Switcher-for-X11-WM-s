@@ -10,7 +10,10 @@ Read the `theme-switch` script and figure out what you're missing :)
 - [pywalfox](https://github.com/Frewacom/pywalfox) (optional)
 
 ## Usage
-`./theme-switch`
-I recommend setting up a hotkey to run the script.
-In i3:
-`bindsym $mod+Shift+t exec --no-startup-id /home/underman/scripts/themer/theme-switch &`
+```
+./theme-switch
+```
+I recommend setting up a hotkey to run the script (i3):
+```
+bindsym $mod+Shift+t exec --no-startup-id /home/underman/scripts/themer/theme-switch &
+```
