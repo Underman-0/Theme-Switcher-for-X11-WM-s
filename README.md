@@ -11,9 +11,9 @@ Read the scripts and figure out what you're missing :)
 
 ## Usage
 ```
-./theme-switch
+./theme-switch.sh
 ```
 I recommend setting up a hotkey to run the script (i3):
 ```
-bindsym $mod+Shift+t exec --no-startup-id /home/underman/scripts/themer/theme-switch &
+bindsym $mod+Shift+t exec --no-startup-id /home/underman/scripts/themer/theme-switch.sh &
 ```
